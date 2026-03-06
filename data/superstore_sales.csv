@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Segment,City,State,Country,Product Name,Category,Sub-Category,Sales,Quantity,Profit
+CA-100000,2024-04-27,William Brown,Consumer,Paris,Île-de-France,France,Hon Chairs,Furniture,Chairs,1112.61,3,265.19
+CA-100001,2024-05-21,Mary Smith,Corporate,San Jose,California,United States,Xerox Paper,Office Supplies,Paper,496.0,4,99.7
+CA-100002,2023-10-19,Joseph Martinez,Consumer,Calgary,Alberta,Canada,Bush Tables,Furniture,Tables,381.82,1,-7.7
+CA-100003,2023-06-19,Michael Taylor,Consumer,Birmingham,England,United Kingdom,Sauder Bookcases,Furniture,Bookcases,110.9,2,-5.73
+CA-100004,2024-09-03,Joseph Rodriguez,Consumer,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,340.27,7,15.85
+CA-100005,2022-05-04,Michael Anderson,Home Office,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,334.02,1,95.71
+CA-100006,2024-11-07,William Davis,Corporate,Toronto,Ontario,Canada,Leland Furnishings,Furniture,Furnishings,538.2,6,41.78
+CA-100007,2024-09-21,Jennifer Rodriguez,Home Office,London,England,United Kingdom,Canon Copiers,Technology,Copiers,360.28,4,32.33
+CA-100008,2023-09-16,David Thomas,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Staples Binders,Office Supplies,Binders,1650.72,4,499.38
+CA-100009,2023-12-14,David Brown,Consumer,London,England,United Kingdom,Leland Furnishings,Furniture,Furnishings,1630.88,8,582.67
+CA-100010,2024-06-25,Linda Anderson,Consumer,Vancouver,British Columbia,Canada,Logitech Accessories,Technology,Accessories,1248.66,9,240.11
+CA-100011,2022-08-26,Robert Rodriguez,Consumer,Melbourne,Victoria,Australia,Canon Machines,Technology,Machines,760.66,2,251.44
+CA-100012,2024-04-01,Susan Martinez,Home Office,Paris,Île-de-France,France,Xerox Paper,Office Supplies,Paper,1378.93,7,548.9
+CA-100013,2023-04-01,Patricia Wilson,Home Office,London,England,United Kingdom,Logitech Accessories,Technology,Accessories,1933.05,5,135.48
+CA-100014,2024-02-28,James Anderson,Corporate,Sydney,New South Wales,Australia,Canon Copiers,Technology,Copiers,2431.15,5,683.11
+CA-100015,2024-04-03,Michael Williams,Corporate,Austin,Texas,United States,Sauder Bookcases,Furniture,Bookcases,822.9,3,238.08
+CA-100016,2023-04-23,Jessica Smith,Corporate,San Jose,California,United States,Xerox Paper,Office Supplies,Paper,2643.42,6,834.88
+CA-100017,2024-04-07,John Johnson,Consumer,Toronto,Ontario,Canada,Canon Copiers,Technology,Copiers,3278.8,8,1275.43
+CA-100018,2022-11-26,Jessica Rodriguez,Home Office,Montreal,Quebec,Canada,Fellowes Storage,Office Supplies,Storage,1342.8,5,272.99
+CA-100019,2023-11-12,Michael Anderson,Home Office,Hamburg,Hamburg,Germany,Bush Tables,Furniture,Tables,3483.34,7,783.54
+CA-100020,2024-07-03,Linda Brown,Consumer,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,121.86,6,21.56
+CA-100021,2023-01-05,Mary Brown,Consumer,Toronto,Ontario,Canada,Xerox Paper,Office Supplies,Paper,431.22,1,-27.84
+CA-100022,2023-09-25,Robert Anderson,Consumer,Leeds,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,2416.1,10,706.25
+CA-100023,2024-11-12,Susan Garcia,Consumer,Toronto,Ontario,Canada,Cisco Phones,Technology,Phones,1671.88,7,442.28
+CA-100024,2022-10-25,Mary Miller,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Canon Copiers,Technology,Copiers,2413.74,6,-109.5
+CA-100025,2023-11-20,Susan Williams,Consumer,Calgary,Alberta,Canada,Bush Tables,Furniture,Tables,1059.28,8,383.07
+CA-100026,2023-09-15,James Johnson,Consumer,Berlin,Berlin,Germany,Hon Chairs,Furniture,Chairs,627.42,3,88.26
+CA-100027,2024-05-13,James Miller,Corporate,Chicago,Illinois,United States,Bush Tables,Furniture,Tables,1198.16,8,297.5
+CA-100028,2024-04-22,Robert Brown,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Bush Tables,Furniture,Tables,1938.68,4,367.55
+CA-100029,2022-09-02,Mary Smith,Corporate,Jacksonville,Florida,United States,Fellowes Appliances,Office Supplies,Appliances,2051.2,8,669.43
+CA-100030,2022-07-06,Jennifer Johnson,Consumer,Dallas,Texas,United States,Fellowes Appliances,Office Supplies,Appliances,681.7,2,12.0
+CA-100031,2023-05-07,Mary Martinez,Home Office,Berlin,Berlin,Germany,Xerox Paper,Office Supplies,Paper,2324.77,7,424.53
+CA-100032,2023-12-12,David Brown,Home Office,Manchester,England,United Kingdom,Bush Tables,Furniture,Tables,518.91,7,115.59
+CA-100033,2023-02-16,Joseph Martinez,Consumer,London,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,91.8,2,0.6
+CA-100034,2023-04-15,Linda Garcia,Consumer,Vancouver,British Columbia,Canada,Bush Tables,Furniture,Tables,674.13,3,115.69
+CA-100035,2022-07-28,James Wilson,Home Office,Hamburg,Hamburg,Germany,Logitech Accessories,Technology,Accessories,2332.8,5,-112.46
+CA-100036,2024-12-03,Robert Jones,Consumer,London,England,United Kingdom,Bush Tables,Furniture,Tables,1132.1,10,80.88
+CA-100037,2022-03-10,Jessica Jones,Home Office,Lyon,Auvergne-Rhône-Alpes,France,Staples Binders,Office Supplies,Binders,641.6,2,201.89
+CA-100038,2022-01-16,William Williams,Consumer,Philadelphia,Pennsylvania,United States,Canon Copiers,Technology,Copiers,2242.56,8,255.3
+CA-100039,2022-07-17,Robert Rodriguez,Home Office,Los Angeles,California,United States,Staples Binders,Office Supplies,Binders,1772.58,6,-46.0
+CA-100040,2023-07-04,Mary Moore,Corporate,Phoenix,Arizona,United States,Sauder Bookcases,Furniture,Bookcases,1376.84,4,321.45
+CA-100041,2023-10-03,Robert Moore,Home Office,Munich,Bavaria,Germany,Hon Chairs,Furniture,Chairs,1465.02,3,447.4
+CA-100042,2022-06-17,David Taylor,Home Office,Chicago,Illinois,United States,Cisco Phones,Technology,Phones,562.92,4,165.32
+CA-100043,2022-12-20,Linda Brown,Corporate,Sydney,New South Wales,Australia,Canon Machines,Technology,Machines,957.24,6,284.94
+CA-100044,2023-03-10,Michael Miller,Home Office,Toronto,Ontario,Canada,Sauder Bookcases,Furniture,Bookcases,2167.65,5,831.17
+CA-100045,2023-02-17,David Smith,Home Office,Leeds,England,United Kingdom,Xerox Paper,Office Supplies,Paper,487.5,5,185.87
+CA-100046,2022-06-29,Susan Garcia,Home Office,Los Angeles,California,United States,Canon Copiers,Technology,Copiers,1342.98,6,526.61
+CA-100047,2024-04-16,William Smith,Consumer,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,75.81,7,27.5
+CA-100048,2024-08-26,Michael Garcia,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Cisco Phones,Technology,Phones,949.9,2,342.33
+CA-100049,2024-05-11,Elizabeth Rodriguez,Home Office,London,England,United Kingdom,Bush Tables,Furniture,Tables,1188.81,7,295.54
+CA-100050,2024-05-01,Richard Wilson,Corporate,Montreal,Quebec,Canada,Canon Copiers,Technology,Copiers,934.8,3,47.18
+CA-100051,2023-11-18,Michael Miller,Corporate,Phoenix,Arizona,United States,Fellowes Appliances,Office Supplies,Appliances,3308.1,10,438.3
+CA-100052,2024-10-28,Jessica Taylor,Home Office,Paris,Île-de-France,France,Canon Copiers,Technology,Copiers,998.52,3,41.83
+CA-100053,2022-02-07,John Thomas,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Hon Chairs,Furniture,Chairs,600.35,5,-0.26
+CA-100054,2024-02-07,John Davis,Corporate,Houston,Texas,United States,Cisco Phones,Technology,Phones,1052.7,10,261.26
+CA-100055,2024-12-17,James Moore,Consumer,Sydney,New South Wales,Australia,Xerox Paper,Office Supplies,Paper,820.61,7,247.87
+CA-100056,2024-04-05,Linda Moore,Consumer,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,602.72,8,79.75
+CA-100057,2023-11-24,Joseph Martinez,Corporate,Hamburg,Hamburg,Germany,Canon Copiers,Technology,Copiers,1971.9,9,696.92
+CA-100058,2024-08-31,William Taylor,Corporate,Calgary,Alberta,Canada,Hon Chairs,Furniture,Chairs,1926.25,5,309.45
+CA-100059,2024-04-19,John Anderson,Corporate,Vancouver,British Columbia,Canada,Bush Tables,Furniture,Tables,572.56,4,34.27
+CA-100060,2023-09-26,Linda Miller,Consumer,Chicago,Illinois,United States,Canon Copiers,Technology,Copiers,1068.45,3,-72.53
+CA-100061,2024-12-16,Mary Brown,Corporate,Leeds,England,United Kingdom,Cisco Phones,Technology,Phones,3173.59,7,609.46
+CA-100062,2023-10-13,Jessica Smith,Corporate,San Jose,California,United States,Sauder Bookcases,Furniture,Bookcases,1896.0,5,619.47
+CA-100063,2023-06-07,Linda Davis,Home Office,Hamburg,Hamburg,Germany,Hon Chairs,Furniture,Chairs,1117.8,5,-95.56
+CA-100064,2023-09-05,Jennifer Thomas,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Canon Machines,Technology,Machines,1471.65,3,245.86
+CA-100065,2022-03-20,James Johnson,Home Office,Hamburg,Hamburg,Germany,Leland Furnishings,Furniture,Furnishings,535.43,7,70.06
+CA-100066,2023-10-17,Michael Davis,Corporate,Leeds,England,United Kingdom,Sauder Bookcases,Furniture,Bookcases,2298.0,6,205.82
+CA-100067,2024-10-06,James Anderson,Corporate,London,England,United Kingdom,Logitech Accessories,Technology,Accessories,499.95,1,37.49
+CA-100068,2024-01-06,James Brown,Consumer,Austin,Texas,United States,Hon Chairs,Furniture,Chairs,314.45,1,6.06
+CA-100069,2024-08-01,Michael Davis,Home Office,Paris,Île-de-France,France,Canon Copiers,Technology,Copiers,1928.9,5,-31.07
+CA-100070,2024-11-18,Jennifer Jones,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Xerox Paper,Office Supplies,Paper,225.8,10,12.64
+CA-100071,2024-11-28,Michael Johnson,Home Office,Melbourne,Victoria,Australia,Fellowes Appliances,Office Supplies,Appliances,239.72,4,68.62
+CA-100072,2024-10-02,Mary Garcia,Home Office,Berlin,Berlin,Germany,Logitech Accessories,Technology,Accessories,2339.05,7,-153.26
+CA-100073,2022-08-26,Jessica Johnson,Corporate,London,England,United Kingdom,Cisco Phones,Technology,Phones,1928.64,6,606.28
+CA-100074,2024-07-09,William Martinez,Home Office,Sydney,New South Wales,Australia,Logitech Accessories,Technology,Accessories,1902.32,8,595.17
+CA-100075,2024-11-03,John Jones,Consumer,Birmingham,England,United Kingdom,Canon Machines,Technology,Machines,1510.92,4,279.41
+CA-100076,2023-02-06,Jessica Thomas,Consumer,Melbourne,Victoria,Australia,Sauder Bookcases,Furniture,Bookcases,746.7,3,57.8
+CA-100077,2023-09-24,William Rodriguez,Home Office,Birmingham,England,United Kingdom,Staples Binders,Office Supplies,Binders,4270.95,9,-244.27
+CA-100078,2023-04-03,Jessica Wilson,Consumer,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,1836.88,8,-167.85
+CA-100079,2023-06-19,Linda Jones,Home Office,Calgary,Alberta,Canada,Leland Furnishings,Furniture,Furnishings,1908.2,10,337.25
+CA-100080,2022-07-07,David Garcia,Home Office,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,1142.0,8,29.35
+CA-100081,2023-03-06,Patricia Anderson,Corporate,Paris,Île-de-France,France,Logitech Accessories,Technology,Accessories,311.58,3,83.91
+CA-100082,2022-01-22,Elizabeth Johnson,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Hon Chairs,Furniture,Chairs,607.35,5,-6.24
+CA-100083,2024-09-17,William Smith,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Staples Binders,Office Supplies,Binders,1378.35,9,512.81
+CA-100084,2023-01-28,Elizabeth Davis,Consumer,Sydney,New South Wales,Australia,Canon Machines,Technology,Machines,1415.6,8,541.82
+CA-100085,2022-08-20,Richard Davis,Consumer,Sydney,New South Wales,Australia,Xerox Paper,Office Supplies,Paper,3184.3,10,-233.08
+CA-100086,2022-12-17,Linda Johnson,Consumer,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,2149.7,7,634.96
+CA-100087,2024-08-05,Joseph Jones,Corporate,Munich,Bavaria,Germany,Fellowes Appliances,Office Supplies,Appliances,1117.48,7,235.24
+CA-100088,2022-04-27,Michael Jones,Consumer,Paris,Île-de-France,France,Leland Furnishings,Furniture,Furnishings,173.92,2,-2.28
+CA-100089,2023-03-16,Joseph Anderson,Corporate,Toronto,Ontario,Canada,Fellowes Appliances,Office Supplies,Appliances,1221.76,8,19.23
+CA-100090,2023-10-23,Linda Moore,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Bush Tables,Furniture,Tables,3339.8,10,1225.15
+CA-100091,2023-04-23,Robert Moore,Consumer,Dallas,Texas,United States,Bush Tables,Furniture,Tables,134.97,3,-2.3
+CA-100092,2023-02-27,Elizabeth Davis,Home Office,Hamburg,Hamburg,Germany,Xerox Paper,Office Supplies,Paper,2779.6,8,694.53
+CA-100093,2024-07-26,Joseph Johnson,Corporate,Hamburg,Hamburg,Germany,Fellowes Appliances,Office Supplies,Appliances,445.82,1,119.15
+CA-100094,2024-11-10,Linda Wilson,Consumer,London,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,4758.9,10,1902.54
+CA-100095,2024-06-28,Jessica Rodriguez,Consumer,London,England,United Kingdom,Leland Furnishings,Furniture,Furnishings,3671.04,8,-33.98
+CA-100096,2022-09-07,John Davis,Corporate,Brisbane,Queensland,Australia,Sauder Bookcases,Furniture,Bookcases,1213.24,7,285.19
+CA-100097,2023-12-08,Jessica Jones,Home Office,Leeds,England,United Kingdom,Leland Furnishings,Furniture,Furnishings,2860.55,7,500.73
+CA-100098,2024-04-22,David Johnson,Corporate,Philadelphia,Pennsylvania,United States,Cisco Phones,Technology,Phones,3727.89,9,-370.64
+CA-100099,2022-03-22,Michael Rodriguez,Consumer,Melbourne,Victoria,Australia,Sauder Bookcases,Furniture,Bookcases,3806.6,10,809.68
+CA-100100,2022-02-14,Robert Moore,Home Office,Vancouver,British Columbia,Canada,Bush Tables,Furniture,Tables,3532.88,8,502.93
+CA-100101,2022-06-26,Jennifer Jones,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Logitech Accessories,Technology,Accessories,280.6,1,-14.98
+CA-100102,2024-01-20,Robert Davis,Home Office,Sydney,New South Wales,Australia,Canon Copiers,Technology,Copiers,1296.75,5,47.61
+CA-100103,2022-04-19,Robert Miller,Corporate,Sydney,New South Wales,Australia,Hon Chairs,Furniture,Chairs,2590.4,10,879.86
+CA-100104,2024-06-19,William Thomas,Corporate,Leeds,England,United Kingdom,Staples Binders,Office Supplies,Binders,1828.8,5,582.91
+CA-100105,2023-08-09,Joseph Rodriguez,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Canon Machines,Technology,Machines,1037.4,6,291.96
+CA-100106,2023-05-10,Linda Martinez,Consumer,Melbourne,Victoria,Australia,Cisco Phones,Technology,Phones,1717.8,4,181.03
+CA-100107,2024-02-20,Richard Miller,Home Office,Lyon,Auvergne-Rhône-Alpes,France,Leland Furnishings,Furniture,Furnishings,758.13,3,-61.78
+CA-100108,2024-10-14,Joseph Johnson,Consumer,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,140.16,8,-3.91
+CA-100109,2024-11-13,William Garcia,Corporate,Toronto,Ontario,Canada,Fellowes Appliances,Office Supplies,Appliances,2298.94,7,749.18
+CA-100110,2024-11-29,Jessica Thomas,Corporate,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,312.56,1,5.43
+CA-100111,2022-02-14,John Miller,Home Office,Manchester,England,United Kingdom,Xerox Paper,Office Supplies,Paper,454.8,2,112.34
+CA-100112,2024-05-29,Elizabeth Garcia,Consumer,Philadelphia,Pennsylvania,United States,Sauder Bookcases,Furniture,Bookcases,569.31,7,94.27
+CA-100113,2024-06-24,Jennifer Johnson,Consumer,Paris,Île-de-France,France,Fellowes Appliances,Office Supplies,Appliances,2195.62,7,44.82
+CA-100114,2023-03-23,William Davis,Corporate,Montreal,Quebec,Canada,Bush Tables,Furniture,Tables,450.47,1,59.74
+CA-100115,2024-12-08,John Davis,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Sauder Bookcases,Furniture,Bookcases,1565.9,10,596.63
+CA-100116,2024-06-11,Michael Miller,Corporate,Leeds,England,United Kingdom,Canon Machines,Technology,Machines,252.46,2,46.95
+CA-100117,2022-03-18,Richard Jones,Consumer,Birmingham,England,United Kingdom,Staples Binders,Office Supplies,Binders,4338.8,10,1254.59
+CA-100118,2022-10-23,Elizabeth Taylor,Corporate,Hamburg,Hamburg,Germany,Hon Chairs,Furniture,Chairs,4029.5,10,38.29
+CA-100119,2024-06-19,Robert Wilson,Home Office,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,161.38,1,19.43
+CA-100120,2024-04-17,Elizabeth Garcia,Consumer,Manchester,England,United Kingdom,Canon Copiers,Technology,Copiers,672.42,7,-22.81
+CA-100121,2022-06-28,William Moore,Consumer,Birmingham,England,United Kingdom,Canon Machines,Technology,Machines,1879.05,5,130.33
+CA-100122,2023-07-23,Linda Thomas,Consumer,Sydney,New South Wales,Australia,Leland Furnishings,Furniture,Furnishings,3387.72,7,1024.09
+CA-100123,2023-02-12,William Rodriguez,Consumer,San Antonio,Texas,United States,Xerox Paper,Office Supplies,Paper,1524.88,8,418.59
+CA-100124,2024-05-22,Barbara Johnson,Home Office,Munich,Bavaria,Germany,Leland Furnishings,Furniture,Furnishings,964.08,4,202.24
+CA-100125,2022-03-12,John Wilson,Home Office,Manchester,England,United Kingdom,Canon Machines,Technology,Machines,1640.65,5,-68.35
+CA-100126,2024-11-07,Patricia Johnson,Corporate,Phoenix,Arizona,United States,Hon Chairs,Furniture,Chairs,688.32,9,87.29
+CA-100127,2024-01-31,Susan Martinez,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Canon Copiers,Technology,Copiers,1331.55,3,302.88
+CA-100128,2023-07-18,Mary Anderson,Corporate,Munich,Bavaria,Germany,Sauder Bookcases,Furniture,Bookcases,909.04,4,341.14
+CA-100129,2023-12-08,Barbara Smith,Corporate,Austin,Texas,United States,Cisco Phones,Technology,Phones,515.05,5,-20.05
+CA-100130,2022-11-15,James Smith,Consumer,Austin,Texas,United States,Sauder Bookcases,Furniture,Bookcases,1978.08,4,580.54
+CA-100131,2024-07-14,Michael Thomas,Consumer,Dallas,Texas,United States,Hon Chairs,Furniture,Chairs,2336.64,6,687.72
+CA-100132,2022-07-24,Robert Rodriguez,Consumer,Phoenix,Arizona,United States,Bush Tables,Furniture,Tables,191.58,3,63.84
+CA-100133,2024-03-28,David Smith,Consumer,Philadelphia,Pennsylvania,United States,Fellowes Storage,Office Supplies,Storage,178.4,5,48.32
+CA-100134,2022-12-11,Jessica Davis,Consumer,Jacksonville,Florida,United States,Sauder Bookcases,Furniture,Bookcases,2708.1,9,341.23
+CA-100135,2023-09-16,Elizabeth Davis,Home Office,Berlin,Berlin,Germany,Leland Furnishings,Furniture,Furnishings,39.8,1,5.55
+CA-100136,2022-08-19,Jessica Anderson,Consumer,Brisbane,Queensland,Australia,Canon Machines,Technology,Machines,901.28,2,55.03
+CA-100137,2023-10-31,David Miller,Corporate,Chicago,Illinois,United States,Fellowes Appliances,Office Supplies,Appliances,1390.5,9,212.43
+CA-100138,2023-09-12,Michael Miller,Consumer,Jacksonville,Florida,United States,Canon Machines,Technology,Machines,851.08,4,266.99
+CA-100139,2024-01-07,David Miller,Consumer,Brisbane,Queensland,Australia,Sauder Bookcases,Furniture,Bookcases,967.05,5,-22.9
+CA-100140,2024-06-30,John Miller,Consumer,Los Angeles,California,United States,Xerox Paper,Office Supplies,Paper,2446.62,6,435.95
+CA-100141,2023-03-23,Patricia Miller,Corporate,Hamburg,Hamburg,Germany,Sauder Bookcases,Furniture,Bookcases,3047.59,7,793.99
+CA-100142,2022-06-18,Patricia Martinez,Corporate,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,343.28,4,48.43
+CA-100143,2024-08-23,William Martinez,Consumer,Birmingham,England,United Kingdom,Hon Chairs,Furniture,Chairs,2968.91,7,1149.78
+CA-100144,2023-04-25,James Martinez,Home Office,Hamburg,Hamburg,Germany,Leland Furnishings,Furniture,Furnishings,120.95,5,4.43
+CA-100145,2024-09-10,Jennifer Thomas,Consumer,Birmingham,England,United Kingdom,Fellowes Storage,Office Supplies,Storage,3321.0,10,-216.55
+CA-100146,2023-05-19,Michael Miller,Home Office,Los Angeles,California,United States,Cisco Phones,Technology,Phones,1416.32,8,120.42
+CA-100147,2023-11-20,Mary Williams,Consumer,Hamburg,Hamburg,Germany,Fellowes Storage,Office Supplies,Storage,343.8,10,-20.36
+CA-100148,2023-10-30,Joseph Miller,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Bush Tables,Furniture,Tables,1519.68,4,-65.48
+CA-100149,2024-07-20,Jessica Rodriguez,Home Office,Phoenix,Arizona,United States,Leland Furnishings,Furniture,Furnishings,161.25,5,15.74
+CA-100150,2024-02-12,Elizabeth Brown,Consumer,New York,New York,United States,Fellowes Storage,Office Supplies,Storage,759.15,5,-30.37
+CA-100151,2023-07-05,Robert Miller,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Logitech Accessories,Technology,Accessories,1020.52,4,323.18
+CA-100152,2024-06-13,Mary Miller,Home Office,San Antonio,Texas,United States,Staples Binders,Office Supplies,Binders,3690.96,8,1221.91
+CA-100153,2024-08-18,Susan Jones,Corporate,Brisbane,Queensland,Australia,Xerox Paper,Office Supplies,Paper,141.54,7,8.83
+CA-100154,2022-05-03,John Miller,Corporate,Brisbane,Queensland,Australia,Xerox Paper,Office Supplies,Paper,893.92,4,89.59
+CA-100155,2024-04-04,David Brown,Home Office,Melbourne,Victoria,Australia,Sauder Bookcases,Furniture,Bookcases,142.29,3,30.82
+CA-100156,2022-11-03,Barbara Anderson,Corporate,Berlin,Berlin,Germany,Leland Furnishings,Furniture,Furnishings,377.31,3,-10.1
+CA-100157,2024-06-19,John Williams,Home Office,Montreal,Quebec,Canada,Leland Furnishings,Furniture,Furnishings,1898.72,8,345.32
+CA-100158,2023-11-18,David Thomas,Home Office,Brisbane,Queensland,Australia,Leland Furnishings,Furniture,Furnishings,503.82,6,-33.18
+CA-100159,2022-03-30,Mary Garcia,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Logitech Accessories,Technology,Accessories,324.2,2,40.84
+CA-100160,2022-03-05,John Martinez,Consumer,Birmingham,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,1785.6,9,339.56
+CA-100161,2023-12-01,Michael Garcia,Home Office,Brisbane,Queensland,Australia,Fellowes Appliances,Office Supplies,Appliances,2045.36,8,774.91
+CA-100162,2023-11-14,John Rodriguez,Home Office,Philadelphia,Pennsylvania,United States,Leland Furnishings,Furniture,Furnishings,87.54,3,22.22
+CA-100163,2024-11-20,Jennifer Garcia,Home Office,Hamburg,Hamburg,Germany,Sauder Bookcases,Furniture,Bookcases,999.15,5,286.99
+CA-100164,2023-01-27,David Johnson,Home Office,Berlin,Berlin,Germany,Sauder Bookcases,Furniture,Bookcases,566.8,2,52.87
+CA-100165,2023-04-27,Robert Garcia,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Xerox Paper,Office Supplies,Paper,3351.7,10,1201.16
+CA-100166,2023-05-26,Richard Williams,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Fellowes Appliances,Office Supplies,Appliances,323.4,2,28.57
+CA-100167,2022-11-29,Susan Rodriguez,Home Office,Toronto,Ontario,Canada,Sauder Bookcases,Furniture,Bookcases,187.67,1,-1.85
+CA-100168,2024-02-28,Linda Williams,Consumer,Leeds,England,United Kingdom,Fellowes Storage,Office Supplies,Storage,309.88,2,91.12
+CA-100169,2022-09-10,Mary Wilson,Home Office,Hamburg,Hamburg,Germany,Sauder Bookcases,Furniture,Bookcases,742.1,10,65.57
+CA-100170,2023-11-22,Joseph Smith,Home Office,Montreal,Quebec,Canada,Cisco Phones,Technology,Phones,2048.52,6,38.44
+CA-100171,2023-12-30,Joseph Brown,Home Office,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,646.56,4,196.76
+CA-100172,2022-09-09,Joseph Davis,Home Office,Vancouver,British Columbia,Canada,Bush Tables,Furniture,Tables,1794.94,7,196.24
+CA-100173,2024-03-12,Mary Wilson,Corporate,Montreal,Quebec,Canada,Canon Machines,Technology,Machines,1690.32,6,-82.33
+CA-100174,2022-12-11,Jennifer Jones,Consumer,Phoenix,Arizona,United States,Canon Machines,Technology,Machines,739.8,9,87.84
+CA-100175,2022-05-07,Susan Smith,Consumer,Melbourne,Victoria,Australia,Cisco Phones,Technology,Phones,1739.16,9,161.89
+CA-100176,2023-03-22,David Moore,Consumer,Manchester,England,United Kingdom,Xerox Paper,Office Supplies,Paper,2386.68,6,-74.46
+CA-100177,2022-12-02,Jessica Davis,Consumer,Brisbane,Queensland,Australia,Fellowes Appliances,Office Supplies,Appliances,453.87,1,-41.07
+CA-100178,2024-08-25,Elizabeth Brown,Consumer,Calgary,Alberta,Canada,Bush Tables,Furniture,Tables,66.8,2,7.34
+CA-100179,2022-08-12,Jessica Martinez,Consumer,Sydney,New South Wales,Australia,Logitech Accessories,Technology,Accessories,319.66,1,59.94
+CA-100180,2024-03-24,Barbara Brown,Consumer,Leeds,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,712.46,7,166.79
+CA-100181,2023-01-30,James Miller,Home Office,London,England,United Kingdom,Canon Machines,Technology,Machines,321.48,1,125.54
+CA-100182,2023-06-01,John Garcia,Corporate,Paris,Île-de-France,France,Hon Chairs,Furniture,Chairs,776.08,2,207.67
+CA-100183,2024-12-16,David Thomas,Corporate,Toronto,Ontario,Canada,Leland Furnishings,Furniture,Furnishings,1250.67,3,303.09
+CA-100184,2022-11-06,Robert Johnson,Consumer,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,224.96,8,0.18
+CA-100185,2022-10-24,Richard Thomas,Corporate,Philadelphia,Pennsylvania,United States,Logitech Accessories,Technology,Accessories,1072.96,8,296.83
+CA-100186,2023-11-15,David Jones,Consumer,Birmingham,England,United Kingdom,Xerox Paper,Office Supplies,Paper,1344.66,6,134.48
+CA-100187,2022-05-09,Jessica Anderson,Consumer,Melbourne,Victoria,Australia,Canon Machines,Technology,Machines,2777.46,6,443.39
+CA-100188,2023-05-25,Susan Martinez,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Fellowes Storage,Office Supplies,Storage,1385.55,9,-67.48
+CA-100189,2023-11-26,Joseph Martinez,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Canon Copiers,Technology,Copiers,641.62,7,78.25
+CA-100190,2023-07-19,Susan Jones,Corporate,Jacksonville,Florida,United States,Leland Furnishings,Furniture,Furnishings,46.77,1,10.23
+CA-100191,2022-07-16,Jennifer Smith,Home Office,Hamburg,Hamburg,Germany,Fellowes Storage,Office Supplies,Storage,3422.6,10,407.59
+CA-100192,2023-11-30,Barbara Garcia,Home Office,Houston,Texas,United States,Cisco Phones,Technology,Phones,258.7,10,-6.02
+CA-100193,2023-03-09,John Martinez,Corporate,Birmingham,England,United Kingdom,Fellowes Storage,Office Supplies,Storage,1708.29,9,97.7
+CA-100194,2023-02-09,Jennifer Davis,Consumer,Toronto,Ontario,Canada,Logitech Accessories,Technology,Accessories,3203.48,7,-131.73
+CA-100195,2023-12-04,Elizabeth Anderson,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Canon Machines,Technology,Machines,280.36,4,91.51
+CA-100196,2023-04-11,David Wilson,Consumer,Calgary,Alberta,Canada,Sauder Bookcases,Furniture,Bookcases,559.0,2,25.26
+CA-100197,2023-07-15,Linda Johnson,Corporate,Montreal,Quebec,Canada,Hon Chairs,Furniture,Chairs,378.0,3,55.57
+CA-100198,2023-04-26,Joseph Taylor,Corporate,Hamburg,Hamburg,Germany,Logitech Accessories,Technology,Accessories,929.55,3,-52.88
+CA-100199,2023-05-08,Jessica Rodriguez,Home Office,Brisbane,Queensland,Australia,Cisco Phones,Technology,Phones,2894.08,7,-182.69
+CA-100200,2024-05-06,Joseph Wilson,Corporate,Paris,Île-de-France,France,Logitech Accessories,Technology,Accessories,437.28,6,137.54
+CA-100201,2023-04-18,Robert Miller,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Logitech Accessories,Technology,Accessories,417.38,1,66.38
+CA-100202,2024-09-13,Linda Garcia,Corporate,Montreal,Quebec,Canada,Logitech Accessories,Technology,Accessories,2122.55,5,53.71
+CA-100203,2024-06-21,Elizabeth Martinez,Consumer,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,512.52,2,-8.04
+CA-100204,2022-03-12,David Thomas,Home Office,Montreal,Quebec,Canada,Fellowes Appliances,Office Supplies,Appliances,414.37,1,-35.56
+CA-100205,2024-09-01,Michael Taylor,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Fellowes Appliances,Office Supplies,Appliances,2190.09,7,-185.84
+CA-100206,2022-04-04,Elizabeth Davis,Home Office,Munich,Bavaria,Germany,Hon Chairs,Furniture,Chairs,1090.18,7,-69.24
+CA-100207,2023-05-12,Jessica Davis,Corporate,Calgary,Alberta,Canada,Hon Chairs,Furniture,Chairs,1843.56,6,103.78
+CA-100208,2023-12-26,Robert Taylor,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Sauder Bookcases,Furniture,Bookcases,2566.89,9,152.88
+CA-100209,2024-08-13,Linda Williams,Corporate,Phoenix,Arizona,United States,Xerox Paper,Office Supplies,Paper,152.2,1,14.01
+CA-100210,2024-03-10,David Moore,Consumer,Sydney,New South Wales,Australia,Fellowes Appliances,Office Supplies,Appliances,618.12,6,-12.57
+CA-100211,2022-12-01,Jessica Smith,Corporate,Melbourne,Victoria,Australia,Xerox Paper,Office Supplies,Paper,1803.69,7,691.43
+CA-100212,2024-01-02,Mary Jones,Consumer,Munich,Bavaria,Germany,Canon Machines,Technology,Machines,4423.5,10,1004.71
+CA-100213,2023-09-15,Susan Williams,Consumer,London,England,United Kingdom,Bush Tables,Furniture,Tables,2305.74,6,191.3
+CA-100214,2024-05-04,Michael Garcia,Home Office,San Jose,California,United States,Logitech Accessories,Technology,Accessories,230.15,5,35.01
+CA-100215,2022-08-13,Patricia Miller,Consumer,London,England,United Kingdom,Sauder Bookcases,Furniture,Bookcases,1700.04,6,140.77
+CA-100216,2024-03-17,Mary Smith,Home Office,Calgary,Alberta,Canada,Staples Binders,Office Supplies,Binders,1078.98,3,325.83
+CA-100217,2023-04-10,Robert Garcia,Home Office,Sydney,New South Wales,Australia,Fellowes Appliances,Office Supplies,Appliances,537.78,6,212.59
+CA-100218,2023-05-30,Jessica Anderson,Home Office,Munich,Bavaria,Germany,Fellowes Appliances,Office Supplies,Appliances,1213.5,5,-111.26
+CA-100219,2024-10-15,Elizabeth Taylor,Corporate,Paris,Île-de-France,France,Canon Copiers,Technology,Copiers,302.49,1,9.91
+CA-100220,2023-08-14,Mary Martinez,Consumer,Hamburg,Hamburg,Germany,Canon Machines,Technology,Machines,800.61,3,208.63
+CA-100221,2024-12-08,Patricia Brown,Consumer,Montreal,Quebec,Canada,Staples Binders,Office Supplies,Binders,1309.68,8,-31.8
+CA-100222,2024-05-21,Jessica Thomas,Home Office,Calgary,Alberta,Canada,Canon Copiers,Technology,Copiers,355.83,1,56.7
+CA-100223,2023-07-05,Richard Garcia,Home Office,Leeds,England,United Kingdom,Fellowes Storage,Office Supplies,Storage,3655.52,8,260.14
+CA-100224,2023-04-09,William Martinez,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Canon Machines,Technology,Machines,1916.4,4,75.7
+CA-100225,2023-03-01,Michael Anderson,Corporate,Vancouver,British Columbia,Canada,Canon Copiers,Technology,Copiers,1322.8,8,98.42
+CA-100226,2023-03-28,Richard Moore,Home Office,London,England,United Kingdom,Cisco Phones,Technology,Phones,2866.56,6,866.58
+CA-100227,2024-04-16,John Garcia,Home Office,Phoenix,Arizona,United States,Canon Machines,Technology,Machines,1881.0,5,13.15
+CA-100228,2024-04-04,Patricia Martinez,Consumer,Birmingham,England,United Kingdom,Canon Copiers,Technology,Copiers,1272.5,10,-94.95
+CA-100229,2022-01-09,Patricia Miller,Consumer,Montreal,Quebec,Canada,Sauder Bookcases,Furniture,Bookcases,474.16,8,135.32
+CA-100230,2023-03-20,Jessica Davis,Corporate,Berlin,Berlin,Germany,Leland Furnishings,Furniture,Furnishings,1521.6,4,66.38
+CA-100231,2022-10-01,Linda Rodriguez,Consumer,Paris,Île-de-France,France,Canon Copiers,Technology,Copiers,457.48,1,-5.7
+CA-100232,2024-06-01,Jennifer Moore,Corporate,San Antonio,Texas,United States,Canon Copiers,Technology,Copiers,2198.0,5,-209.62
+CA-100233,2022-07-28,Elizabeth Davis,Corporate,Berlin,Berlin,Germany,Leland Furnishings,Furniture,Furnishings,2402.28,9,827.9
+CA-100234,2023-02-04,Michael Taylor,Corporate,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,537.72,6,69.61
+CA-100235,2024-08-07,David Taylor,Consumer,Paris,Île-de-France,France,Bush Tables,Furniture,Tables,3404.6,10,-11.64
+CA-100236,2023-05-18,David Johnson,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Cisco Phones,Technology,Phones,201.08,2,-5.97
+CA-100237,2024-06-08,Richard Brown,Corporate,Toronto,Ontario,Canada,Canon Machines,Technology,Machines,2387.4,5,121.69
+CA-100238,2022-09-06,Barbara Anderson,Home Office,Phoenix,Arizona,United States,Hon Chairs,Furniture,Chairs,337.22,1,44.75
+CA-100239,2022-07-27,Elizabeth Anderson,Home Office,Brisbane,Queensland,Australia,Xerox Paper,Office Supplies,Paper,950.5,5,9.91
+CA-100240,2024-10-28,Barbara Miller,Corporate,Sydney,New South Wales,Australia,Canon Copiers,Technology,Copiers,4115.43,9,1146.87
+CA-100241,2024-05-26,John Rodriguez,Home Office,Montreal,Quebec,Canada,Canon Machines,Technology,Machines,3193.65,9,-194.65
+CA-100242,2023-11-18,Michael Martinez,Home Office,New York,New York,United States,Logitech Accessories,Technology,Accessories,271.86,3,88.96
+CA-100243,2024-03-08,Jessica Johnson,Consumer,Austin,Texas,United States,Logitech Accessories,Technology,Accessories,3250.08,8,411.84
+CA-100244,2022-01-05,Mary Rodriguez,Home Office,Melbourne,Victoria,Australia,Canon Machines,Technology,Machines,1822.05,5,178.51
+CA-100245,2022-04-04,John Smith,Home Office,Paris,Île-de-France,France,Cisco Phones,Technology,Phones,2119.14,6,361.49
+CA-100246,2024-09-30,Elizabeth Miller,Consumer,San Diego,California,United States,Fellowes Storage,Office Supplies,Storage,1155.78,3,449.79
+CA-100247,2024-04-17,Joseph Thomas,Corporate,Melbourne,Victoria,Australia,Cisco Phones,Technology,Phones,345.24,7,131.91
+CA-100248,2022-01-06,Jennifer Rodriguez,Consumer,Vancouver,British Columbia,Canada,Cisco Phones,Technology,Phones,651.6,9,253.71
+CA-100249,2023-03-05,Susan Rodriguez,Corporate,Phoenix,Arizona,United States,Cisco Phones,Technology,Phones,525.12,4,38.38
+CA-100250,2022-02-22,Susan Martinez,Consumer,Toronto,Ontario,Canada,Staples Binders,Office Supplies,Binders,443.92,4,-22.0
+CA-100251,2022-12-04,Mary Brown,Home Office,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,207.11,1,3.56
+CA-100252,2024-11-10,Elizabeth Brown,Home Office,Chicago,Illinois,United States,Canon Copiers,Technology,Copiers,1662.6,10,330.79
+CA-100253,2024-05-14,Robert Wilson,Corporate,Manchester,England,United Kingdom,Logitech Accessories,Technology,Accessories,850.56,4,31.96
+CA-100254,2024-11-08,Susan Rodriguez,Consumer,Hamburg,Hamburg,Germany,Canon Machines,Technology,Machines,486.42,1,180.36
+CA-100255,2024-01-06,Susan Miller,Corporate,Brisbane,Queensland,Australia,Fellowes Storage,Office Supplies,Storage,972.35,5,269.54
+CA-100256,2024-05-15,Robert Taylor,Corporate,Montreal,Quebec,Canada,Canon Machines,Technology,Machines,285.57,1,109.63
+CA-100257,2023-07-31,Linda Jones,Corporate,Berlin,Berlin,Germany,Hon Chairs,Furniture,Chairs,1961.34,6,708.27
+CA-100258,2022-04-24,Michael Smith,Home Office,Dallas,Texas,United States,Bush Tables,Furniture,Tables,2380.7,7,479.62
+CA-100259,2022-10-23,Michael Thomas,Corporate,Montreal,Quebec,Canada,Sauder Bookcases,Furniture,Bookcases,2394.7,5,-221.11
+CA-100260,2023-01-07,Jessica Moore,Home Office,Paris,Île-de-France,France,Hon Chairs,Furniture,Chairs,3548.5,10,348.87
+CA-100261,2024-02-12,Richard Davis,Corporate,Munich,Bavaria,Germany,Logitech Accessories,Technology,Accessories,966.78,6,77.17
+CA-100262,2024-05-23,Jessica Taylor,Home Office,Sydney,New South Wales,Australia,Sauder Bookcases,Furniture,Bookcases,766.6,4,82.0
+CA-100263,2022-11-01,William Rodriguez,Consumer,Montreal,Quebec,Canada,Fellowes Appliances,Office Supplies,Appliances,3628.1,10,172.68
+CA-100264,2024-09-23,Linda Davis,Corporate,Manchester,England,United Kingdom,Logitech Accessories,Technology,Accessories,816.54,6,253.78
+CA-100265,2022-10-13,Jennifer Anderson,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Sauder Bookcases,Furniture,Bookcases,235.74,3,40.85
+CA-100266,2024-09-06,Mary Thomas,Consumer,Hamburg,Hamburg,Germany,Xerox Paper,Office Supplies,Paper,384.53,1,40.84
+CA-100267,2024-09-17,Robert Smith,Home Office,Toronto,Ontario,Canada,Hon Chairs,Furniture,Chairs,2100.96,9,-146.59
+CA-100268,2024-04-02,Jessica Smith,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Staples Binders,Office Supplies,Binders,2522.79,9,-237.33
+CA-100269,2022-06-16,Elizabeth Smith,Home Office,Lyon,Auvergne-Rhône-Alpes,France,Logitech Accessories,Technology,Accessories,2835.14,7,1006.15
+CA-100270,2023-09-09,Linda Brown,Consumer,Dallas,Texas,United States,Fellowes Appliances,Office Supplies,Appliances,1203.12,9,92.91
+CA-100271,2022-05-06,Joseph Martinez,Corporate,Philadelphia,Pennsylvania,United States,Hon Chairs,Furniture,Chairs,627.96,4,197.2
+CA-100272,2022-01-15,John Miller,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Cisco Phones,Technology,Phones,1965.74,7,-141.42
+CA-100273,2022-05-29,Jessica Thomas,Consumer,Paris,Île-de-France,France,Cisco Phones,Technology,Phones,1723.62,6,567.04
+CA-100274,2022-04-26,Michael Moore,Consumer,Berlin,Berlin,Germany,Canon Copiers,Technology,Copiers,2430.0,10,-186.43
+CA-100275,2023-09-11,Mary Williams,Home Office,Lyon,Auvergne-Rhône-Alpes,France,Sauder Bookcases,Furniture,Bookcases,481.12,1,93.11
+CA-100276,2022-08-06,Linda Martinez,Consumer,Phoenix,Arizona,United States,Cisco Phones,Technology,Phones,1552.95,9,431.42
+CA-100277,2024-07-29,Barbara Smith,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Xerox Paper,Office Supplies,Paper,866.25,7,-53.7
+CA-100278,2022-12-21,David Smith,Corporate,Hamburg,Hamburg,Germany,Leland Furnishings,Furniture,Furnishings,1969.7,5,246.75
+CA-100279,2023-01-18,Jennifer Wilson,Corporate,Leeds,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,363.93,7,76.17
+CA-100280,2022-06-15,William Williams,Consumer,Paris,Île-de-France,France,Cisco Phones,Technology,Phones,1117.29,3,65.18
+CA-100281,2023-11-29,Joseph Garcia,Corporate,New York,New York,United States,Bush Tables,Furniture,Tables,149.86,2,-0.94
+CA-100282,2024-07-18,Susan Johnson,Home Office,Hamburg,Hamburg,Germany,Staples Binders,Office Supplies,Binders,366.84,2,-19.61
+CA-100283,2023-01-13,Elizabeth Miller,Consumer,Leeds,England,United Kingdom,Cisco Phones,Technology,Phones,730.34,2,131.29
+CA-100284,2022-04-09,Richard Williams,Consumer,Hamburg,Hamburg,Germany,Fellowes Storage,Office Supplies,Storage,787.75,5,115.45
+CA-100285,2024-08-28,Susan Jones,Corporate,Calgary,Alberta,Canada,Canon Machines,Technology,Machines,373.9,2,139.13
+CA-100286,2023-06-01,Michael Davis,Home Office,Brisbane,Queensland,Australia,Xerox Paper,Office Supplies,Paper,477.84,3,178.91
+CA-100287,2024-12-16,Joseph Garcia,Corporate,Munich,Bavaria,Germany,Cisco Phones,Technology,Phones,767.0,10,46.28
+CA-100288,2024-06-13,Jennifer Miller,Corporate,Calgary,Alberta,Canada,Sauder Bookcases,Furniture,Bookcases,1850.45,5,400.53
+CA-100289,2024-07-08,William Thomas,Corporate,Vancouver,British Columbia,Canada,Cisco Phones,Technology,Phones,394.86,6,71.84
+CA-100290,2024-12-12,James Anderson,Home Office,Berlin,Berlin,Germany,Canon Machines,Technology,Machines,899.36,4,41.07
+CA-100291,2023-10-20,Jessica Williams,Home Office,San Antonio,Texas,United States,Leland Furnishings,Furniture,Furnishings,642.95,5,147.45
+CA-100292,2024-12-10,Jessica Martinez,Corporate,Sydney,New South Wales,Australia,Cisco Phones,Technology,Phones,2324.16,9,837.15
+CA-100293,2023-01-21,Barbara Anderson,Consumer,Brisbane,Queensland,Australia,Logitech Accessories,Technology,Accessories,3227.1,10,-185.59
+CA-100294,2024-10-01,Jennifer Wilson,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Fellowes Appliances,Office Supplies,Appliances,285.98,1,63.64
+CA-100295,2024-05-16,Patricia Smith,Corporate,Melbourne,Victoria,Australia,Xerox Paper,Office Supplies,Paper,593.9,5,162.39
+CA-100296,2024-12-08,Linda Davis,Home Office,Hamburg,Hamburg,Germany,Sauder Bookcases,Furniture,Bookcases,1658.3,7,397.62
+CA-100297,2022-06-30,James Davis,Corporate,Berlin,Berlin,Germany,Xerox Paper,Office Supplies,Paper,1069.15,5,407.2
+CA-100298,2022-06-01,Elizabeth Garcia,Corporate,Paris,Île-de-France,France,Canon Machines,Technology,Machines,1061.4,4,78.7
+CA-100299,2022-02-05,Joseph Garcia,Home Office,Brisbane,Queensland,Australia,Xerox Paper,Office Supplies,Paper,159.45,5,40.72
+CA-100300,2023-05-30,Jennifer Moore,Home Office,London,England,United Kingdom,Canon Copiers,Technology,Copiers,1051.36,4,184.99
+CA-100301,2023-09-07,Linda Taylor,Corporate,Munich,Bavaria,Germany,Cisco Phones,Technology,Phones,303.99,3,69.51
+CA-100302,2022-11-16,Michael Davis,Home Office,Jacksonville,Florida,United States,Fellowes Appliances,Office Supplies,Appliances,1403.71,7,354.25
+CA-100303,2022-06-27,Patricia Taylor,Home Office,London,England,United Kingdom,Logitech Accessories,Technology,Accessories,567.72,3,-0.83
+CA-100304,2023-07-01,David Martinez,Home Office,Leeds,England,United Kingdom,Cisco Phones,Technology,Phones,2023.5,10,-86.78
+CA-100305,2022-07-03,Elizabeth Moore,Consumer,Brisbane,Queensland,Australia,Fellowes Appliances,Office Supplies,Appliances,515.3,10,-17.02
+CA-100306,2022-08-03,Jennifer Garcia,Consumer,Vancouver,British Columbia,Canada,Canon Copiers,Technology,Copiers,780.9,3,85.21
+CA-100307,2022-09-27,Jennifer Davis,Corporate,Munich,Bavaria,Germany,Leland Furnishings,Furniture,Furnishings,3148.02,9,700.84
+CA-100308,2023-07-12,Elizabeth Williams,Corporate,Berlin,Berlin,Germany,Fellowes Storage,Office Supplies,Storage,2535.42,6,531.69
+CA-100309,2024-11-29,Michael Thomas,Consumer,San Diego,California,United States,Cisco Phones,Technology,Phones,2318.94,9,342.01
+CA-100310,2022-12-09,Joseph Davis,Home Office,Melbourne,Victoria,Australia,Fellowes Storage,Office Supplies,Storage,574.08,2,171.04
+CA-100311,2024-02-09,Linda Rodriguez,Corporate,London,England,United Kingdom,Bush Tables,Furniture,Tables,1177.68,3,215.31
+CA-100312,2023-11-17,Patricia Jones,Consumer,Hamburg,Hamburg,Germany,Logitech Accessories,Technology,Accessories,1653.6,6,460.35
+CA-100313,2023-11-30,Patricia Anderson,Corporate,Berlin,Berlin,Germany,Leland Furnishings,Furniture,Furnishings,623.52,4,249.19
+CA-100314,2024-12-06,Joseph Thomas,Consumer,Birmingham,England,United Kingdom,Xerox Paper,Office Supplies,Paper,451.36,4,121.33
+CA-100315,2024-04-06,Robert Taylor,Consumer,Leeds,England,United Kingdom,Hon Chairs,Furniture,Chairs,1618.68,4,299.52
+CA-100316,2024-11-21,Elizabeth Jones,Corporate,Manchester,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,2383.35,5,374.68
+CA-100317,2022-08-16,Mary Jones,Corporate,Chicago,Illinois,United States,Leland Furnishings,Furniture,Furnishings,1061.1,3,-35.71
+CA-100318,2023-08-06,Richard Davis,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Fellowes Storage,Office Supplies,Storage,3198.8,10,684.24
+CA-100319,2023-12-08,John Miller,Home Office,Sydney,New South Wales,Australia,Logitech Accessories,Technology,Accessories,1752.0,5,593.33
+CA-100320,2024-10-28,James Thomas,Home Office,Melbourne,Victoria,Australia,Canon Copiers,Technology,Copiers,736.32,2,95.15
+CA-100321,2023-03-17,Richard Brown,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Cisco Phones,Technology,Phones,1009.64,4,62.02
+CA-100322,2023-12-15,Jessica Taylor,Home Office,Manchester,England,United Kingdom,Sauder Bookcases,Furniture,Bookcases,32.51,1,6.93
+CA-100323,2022-07-24,Joseph Davis,Consumer,Los Angeles,California,United States,Staples Binders,Office Supplies,Binders,763.98,7,186.64
+CA-100324,2024-10-05,William Johnson,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Leland Furnishings,Furniture,Furnishings,796.14,6,68.41
+CA-100325,2022-05-28,Elizabeth Anderson,Corporate,Toronto,Ontario,Canada,Canon Copiers,Technology,Copiers,881.28,4,-47.94
+CA-100326,2022-01-13,John Williams,Corporate,Houston,Texas,United States,Fellowes Appliances,Office Supplies,Appliances,1058.12,4,129.66
+CA-100327,2022-06-09,Susan Anderson,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Fellowes Storage,Office Supplies,Storage,357.68,8,32.74
+CA-100328,2022-04-17,Elizabeth Williams,Corporate,Philadelphia,Pennsylvania,United States,Cisco Phones,Technology,Phones,973.11,3,232.15
+CA-100329,2023-10-02,Jennifer Davis,Consumer,Hamburg,Hamburg,Germany,Sauder Bookcases,Furniture,Bookcases,1271.04,4,-30.9
+CA-100330,2023-08-20,Michael Johnson,Corporate,Hamburg,Hamburg,Germany,Xerox Paper,Office Supplies,Paper,1136.1,3,221.3
+CA-100331,2024-08-01,Robert Brown,Corporate,Leeds,England,United Kingdom,Bush Tables,Furniture,Tables,263.2,2,52.77
+CA-100332,2023-04-05,Elizabeth Brown,Home Office,London,England,United Kingdom,Logitech Accessories,Technology,Accessories,2596.7,10,711.29
+CA-100333,2024-03-31,Jessica Miller,Consumer,Paris,Île-de-France,France,Xerox Paper,Office Supplies,Paper,1019.2,4,200.75
+CA-100334,2024-01-02,Robert Miller,Corporate,Philadelphia,Pennsylvania,United States,Fellowes Appliances,Office Supplies,Appliances,1323.35,7,319.55
+CA-100335,2023-09-11,John Smith,Home Office,New York,New York,United States,Bush Tables,Furniture,Tables,118.08,4,-8.24
+CA-100336,2024-08-14,Susan Miller,Home Office,Munich,Bavaria,Germany,Canon Copiers,Technology,Copiers,352.73,7,59.36
+CA-100337,2023-05-23,Elizabeth Johnson,Consumer,Vancouver,British Columbia,Canada,Logitech Accessories,Technology,Accessories,1949.64,4,-43.5
+CA-100338,2022-03-31,John Jones,Home Office,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,2573.76,7,831.93
+CA-100339,2024-10-19,Patricia Davis,Corporate,Toronto,Ontario,Canada,Fellowes Appliances,Office Supplies,Appliances,369.6,10,86.13
+CA-100340,2024-03-23,James Anderson,Consumer,Paris,Île-de-France,France,Fellowes Storage,Office Supplies,Storage,90.28,1,33.99
+CA-100341,2022-02-15,Jennifer Garcia,Corporate,Hamburg,Hamburg,Germany,Fellowes Storage,Office Supplies,Storage,1845.7,5,-75.62
+CA-100342,2024-03-04,John Jones,Corporate,Leeds,England,United Kingdom,Canon Copiers,Technology,Copiers,3174.9,10,470.12
+CA-100343,2024-11-13,Jennifer Garcia,Corporate,London,England,United Kingdom,Fellowes Storage,Office Supplies,Storage,1944.65,5,675.05
+CA-100344,2022-08-22,James Smith,Consumer,Paris,Île-de-France,France,Staples Binders,Office Supplies,Binders,130.12,4,10.67
+CA-100345,2023-02-26,Susan Brown,Home Office,Toronto,Ontario,Canada,Sauder Bookcases,Furniture,Bookcases,855.88,4,222.65
+CA-100346,2022-03-13,Patricia Rodriguez,Corporate,San Jose,California,United States,Leland Furnishings,Furniture,Furnishings,97.88,1,29.58
+CA-100347,2023-07-28,Elizabeth Taylor,Corporate,Sydney,New South Wales,Australia,Bush Tables,Furniture,Tables,313.98,6,40.31
+CA-100348,2024-02-06,Elizabeth Anderson,Home Office,Vancouver,British Columbia,Canada,Fellowes Appliances,Office Supplies,Appliances,949.28,4,185.91
+CA-100349,2024-12-13,James Moore,Consumer,Montreal,Quebec,Canada,Cisco Phones,Technology,Phones,124.17,1,9.09
+CA-100350,2023-01-05,Richard Thomas,Consumer,Philadelphia,Pennsylvania,United States,Canon Copiers,Technology,Copiers,304.7,5,50.25
+CA-100351,2024-03-18,Robert Anderson,Consumer,Melbourne,Victoria,Australia,Bush Tables,Furniture,Tables,63.02,2,0.99
+CA-100352,2023-09-05,Joseph Anderson,Corporate,Brisbane,Queensland,Australia,Xerox Paper,Office Supplies,Paper,568.3,10,-18.89
+CA-100353,2023-05-05,Mary Miller,Home Office,San Jose,California,United States,Leland Furnishings,Furniture,Furnishings,378.06,3,11.53
+CA-100354,2022-07-31,David Garcia,Home Office,Brisbane,Queensland,Australia,Canon Machines,Technology,Machines,622.35,5,231.38
+CA-100355,2023-07-11,Patricia Williams,Consumer,Berlin,Berlin,Germany,Canon Machines,Technology,Machines,1311.04,8,-51.96
+CA-100356,2024-12-30,Joseph Jones,Corporate,Calgary,Alberta,Canada,Xerox Paper,Office Supplies,Paper,174.46,2,42.4
+CA-100357,2023-07-07,Michael Thomas,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Sauder Bookcases,Furniture,Bookcases,164.07,3,3.96
+CA-100358,2024-05-13,Elizabeth Jones,Consumer,Brisbane,Queensland,Australia,Fellowes Storage,Office Supplies,Storage,476.53,1,155.97
+CA-100359,2022-12-12,Patricia Davis,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Xerox Paper,Office Supplies,Paper,208.53,3,-14.42
+CA-100360,2022-04-27,Barbara Wilson,Corporate,Montreal,Quebec,Canada,Leland Furnishings,Furniture,Furnishings,590.68,2,17.37
+CA-100361,2023-05-31,Joseph Taylor,Consumer,Los Angeles,California,United States,Fellowes Storage,Office Supplies,Storage,906.98,2,285.41
+CA-100362,2022-02-15,Mary Williams,Corporate,New York,New York,United States,Fellowes Appliances,Office Supplies,Appliances,2888.41,7,281.62
+CA-100363,2022-08-19,Jennifer Garcia,Corporate,Brisbane,Queensland,Australia,Hon Chairs,Furniture,Chairs,434.22,3,53.41
+CA-100364,2022-04-05,Linda Wilson,Home Office,San Jose,California,United States,Bush Tables,Furniture,Tables,1695.04,8,297.22
+CA-100365,2024-04-24,Robert Miller,Corporate,Phoenix,Arizona,United States,Hon Chairs,Furniture,Chairs,1188.72,9,471.97
+CA-100366,2023-05-15,Barbara Davis,Home Office,San Antonio,Texas,United States,Logitech Accessories,Technology,Accessories,1428.64,8,261.19
+CA-100367,2023-03-13,James Garcia,Consumer,Melbourne,Victoria,Australia,Fellowes Appliances,Office Supplies,Appliances,97.44,4,29.75
+CA-100368,2024-10-17,Barbara Taylor,Home Office,San Diego,California,United States,Fellowes Appliances,Office Supplies,Appliances,1949.0,4,-97.32
+CA-100369,2023-07-06,Mary Taylor,Home Office,Vancouver,British Columbia,Canada,Hon Chairs,Furniture,Chairs,4247.9,10,1268.83
+CA-100370,2024-12-24,David Taylor,Consumer,Montreal,Quebec,Canada,Canon Copiers,Technology,Copiers,2747.1,6,-235.97
+CA-100371,2022-05-21,Michael Thomas,Home Office,Manchester,England,United Kingdom,Canon Machines,Technology,Machines,1452.96,9,211.0
+CA-100372,2022-11-09,Linda Smith,Home Office,Houston,Texas,United States,Logitech Accessories,Technology,Accessories,82.64,8,29.66
+CA-100373,2022-08-09,Jennifer Moore,Home Office,Vancouver,British Columbia,Canada,Sauder Bookcases,Furniture,Bookcases,20.74,1,4.01
+CA-100374,2023-05-17,John Garcia,Corporate,Dallas,Texas,United States,Canon Copiers,Technology,Copiers,2080.05,7,142.03
+CA-100375,2024-05-23,Susan Taylor,Home Office,Montreal,Quebec,Canada,Leland Furnishings,Furniture,Furnishings,2624.8,8,-33.86
+CA-100376,2023-04-03,Linda Wilson,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Fellowes Appliances,Office Supplies,Appliances,586.23,3,156.52
+CA-100377,2024-05-31,James Anderson,Home Office,Montreal,Quebec,Canada,Fellowes Appliances,Office Supplies,Appliances,2988.09,7,852.85
+CA-100378,2024-02-10,David Moore,Home Office,Chicago,Illinois,United States,Fellowes Appliances,Office Supplies,Appliances,1293.72,4,-62.03
+CA-100379,2022-05-18,John Brown,Home Office,Vancouver,British Columbia,Canada,Sauder Bookcases,Furniture,Bookcases,553.56,6,189.68
+CA-100380,2023-06-29,David Davis,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Staples Binders,Office Supplies,Binders,563.75,5,139.01
+CA-100381,2023-10-06,James Smith,Home Office,London,England,United Kingdom,Cisco Phones,Technology,Phones,2951.76,8,1135.1
+CA-100382,2022-09-10,Richard Johnson,Corporate,Melbourne,Victoria,Australia,Canon Machines,Technology,Machines,3289.8,10,801.33
+CA-100383,2022-09-22,Elizabeth Smith,Consumer,Sydney,New South Wales,Australia,Sauder Bookcases,Furniture,Bookcases,2381.55,5,-149.8
+CA-100384,2024-01-20,John Rodriguez,Home Office,Sydney,New South Wales,Australia,Xerox Paper,Office Supplies,Paper,1806.42,6,373.61
+CA-100385,2022-10-23,Jennifer Martinez,Corporate,Paris,Île-de-France,France,Cisco Phones,Technology,Phones,108.72,3,7.13
+CA-100386,2024-06-07,William Wilson,Home Office,Brisbane,Queensland,Australia,Bush Tables,Furniture,Tables,632.0,5,-47.52
+CA-100387,2024-08-29,Mary Garcia,Consumer,Munich,Bavaria,Germany,Staples Binders,Office Supplies,Binders,370.58,7,115.6
+CA-100388,2024-01-06,Patricia Smith,Consumer,Munich,Bavaria,Germany,Hon Chairs,Furniture,Chairs,968.13,3,376.15
+CA-100389,2022-10-15,Jessica Davis,Corporate,Phoenix,Arizona,United States,Leland Furnishings,Furniture,Furnishings,273.3,5,47.02
+CA-100390,2023-02-22,Jennifer Davis,Corporate,Leeds,England,United Kingdom,Staples Binders,Office Supplies,Binders,1127.35,5,35.74
+CA-100391,2024-07-05,Patricia Johnson,Consumer,Berlin,Berlin,Germany,Leland Furnishings,Furniture,Furnishings,2436.06,6,260.64
+CA-100392,2023-04-10,Susan Rodriguez,Corporate,Toronto,Ontario,Canada,Leland Furnishings,Furniture,Furnishings,2325.04,8,41.43
+CA-100393,2024-08-21,Mary Rodriguez,Home Office,San Antonio,Texas,United States,Fellowes Appliances,Office Supplies,Appliances,3619.98,9,864.33
+CA-100394,2024-11-27,Jennifer Williams,Corporate,Toronto,Ontario,Canada,Hon Chairs,Furniture,Chairs,287.32,4,32.09
+CA-100395,2022-04-15,Robert Thomas,Home Office,Sydney,New South Wales,Australia,Fellowes Appliances,Office Supplies,Appliances,833.4,5,219.64
+CA-100396,2022-01-20,Richard Rodriguez,Home Office,San Antonio,Texas,United States,Sauder Bookcases,Furniture,Bookcases,1323.25,5,474.49
+CA-100397,2022-06-05,Susan Johnson,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Cisco Phones,Technology,Phones,247.86,3,48.08
+CA-100398,2024-10-14,Elizabeth Thomas,Consumer,San Jose,California,United States,Logitech Accessories,Technology,Accessories,2641.02,6,84.69
+CA-100399,2024-11-23,Jessica Smith,Home Office,Brisbane,Queensland,Australia,Fellowes Storage,Office Supplies,Storage,1037.3,5,216.92
+CA-100400,2023-02-22,Richard Moore,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Sauder Bookcases,Furniture,Bookcases,136.6,4,18.8
+CA-100401,2022-12-21,Elizabeth Jones,Corporate,London,England,United Kingdom,Bush Tables,Furniture,Tables,3444.32,8,834.99
+CA-100402,2022-05-19,Joseph Taylor,Home Office,Vancouver,British Columbia,Canada,Sauder Bookcases,Furniture,Bookcases,1835.55,5,371.68
+CA-100403,2024-03-11,Susan Anderson,Consumer,Calgary,Alberta,Canada,Canon Machines,Technology,Machines,3914.28,9,1215.42
+CA-100404,2022-11-08,Richard Williams,Corporate,Toronto,Ontario,Canada,Logitech Accessories,Technology,Accessories,241.8,10,-0.87
+CA-100405,2024-02-24,Joseph Smith,Consumer,Houston,Texas,United States,Sauder Bookcases,Furniture,Bookcases,577.0,4,179.88
+CA-100406,2024-01-08,James Brown,Consumer,Brisbane,Queensland,Australia,Sauder Bookcases,Furniture,Bookcases,2408.64,8,-27.0
+CA-100407,2022-09-11,Barbara Williams,Corporate,Hamburg,Hamburg,Germany,Bush Tables,Furniture,Tables,299.36,2,27.93
+CA-100408,2024-11-25,Linda Wilson,Consumer,Berlin,Berlin,Germany,Hon Chairs,Furniture,Chairs,1646.4,5,257.89
+CA-100409,2023-04-20,Jennifer Martinez,Consumer,San Diego,California,United States,Staples Binders,Office Supplies,Binders,534.68,4,161.76
+CA-100410,2023-04-15,William Miller,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Cisco Phones,Technology,Phones,1409.46,6,12.83
+CA-100411,2023-08-05,Richard Martinez,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Xerox Paper,Office Supplies,Paper,260.64,1,60.25
+CA-100412,2023-03-06,Elizabeth Jones,Home Office,Hamburg,Hamburg,Germany,Leland Furnishings,Furniture,Furnishings,492.1,2,33.53
+CA-100413,2023-01-09,William Wilson,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Canon Copiers,Technology,Copiers,511.5,5,81.15
+CA-100414,2023-02-08,David Wilson,Corporate,San Jose,California,United States,Fellowes Storage,Office Supplies,Storage,331.15,1,132.04
+CA-100415,2022-12-12,Mary Martinez,Corporate,Melbourne,Victoria,Australia,Canon Copiers,Technology,Copiers,4098.5,10,293.39
+CA-100416,2024-10-18,Jessica Moore,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Leland Furnishings,Furniture,Furnishings,1551.48,6,500.68
+CA-100417,2022-10-12,Patricia Davis,Corporate,Berlin,Berlin,Germany,Fellowes Storage,Office Supplies,Storage,1826.7,5,327.92
+CA-100418,2023-05-30,John Brown,Home Office,Lyon,Auvergne-Rhône-Alpes,France,Sauder Bookcases,Furniture,Bookcases,1498.64,4,80.24
+CA-100419,2024-06-20,Elizabeth Davis,Home Office,Birmingham,England,United Kingdom,Xerox Paper,Office Supplies,Paper,290.4,8,63.07
+CA-100420,2022-08-23,Michael Rodriguez,Corporate,Berlin,Berlin,Germany,Xerox Paper,Office Supplies,Paper,1887.34,7,201.1
+CA-100421,2022-05-06,Susan Martinez,Corporate,Montreal,Quebec,Canada,Canon Machines,Technology,Machines,495.09,3,127.65
+CA-100422,2022-09-19,Jennifer Garcia,Home Office,Melbourne,Victoria,Australia,Leland Furnishings,Furniture,Furnishings,12.31,1,0.45
+CA-100423,2024-01-12,John Williams,Corporate,Berlin,Berlin,Germany,Fellowes Appliances,Office Supplies,Appliances,2242.87,7,228.09
+CA-100424,2024-04-04,Michael Anderson,Consumer,Sydney,New South Wales,Australia,Sauder Bookcases,Furniture,Bookcases,447.08,1,124.48
+CA-100425,2023-04-30,James Wilson,Home Office,Toronto,Ontario,Canada,Canon Copiers,Technology,Copiers,483.48,4,163.65
+CA-100426,2024-03-19,Elizabeth Williams,Corporate,Toronto,Ontario,Canada,Xerox Paper,Office Supplies,Paper,156.12,1,7.09
+CA-100427,2023-07-13,Susan Moore,Corporate,Hamburg,Hamburg,Germany,Leland Furnishings,Furniture,Furnishings,533.82,3,187.21
+CA-100428,2024-02-23,James Brown,Corporate,Montreal,Quebec,Canada,Hon Chairs,Furniture,Chairs,340.44,3,-30.31
+CA-100429,2024-07-11,Mary Miller,Corporate,Toronto,Ontario,Canada,Leland Furnishings,Furniture,Furnishings,1939.55,5,410.35
+CA-100430,2024-04-30,James Smith,Consumer,Austin,Texas,United States,Canon Copiers,Technology,Copiers,428.44,2,38.61
+CA-100431,2024-10-26,Robert Brown,Home Office,Leeds,England,United Kingdom,Canon Copiers,Technology,Copiers,157.55,1,36.37
+CA-100432,2022-06-27,Robert Miller,Home Office,Munich,Bavaria,Germany,Xerox Paper,Office Supplies,Paper,3259.8,9,-134.08
+CA-100433,2023-09-29,Michael Taylor,Consumer,San Diego,California,United States,Bush Tables,Furniture,Tables,4381.47,9,345.96
+CA-100434,2024-11-09,Jessica Moore,Consumer,Manchester,England,United Kingdom,Hon Chairs,Furniture,Chairs,1376.0,8,-135.72
+CA-100435,2023-02-02,Jessica Williams,Home Office,Los Angeles,California,United States,Xerox Paper,Office Supplies,Paper,420.93,9,110.19
+CA-100436,2022-03-03,Elizabeth Jones,Corporate,Paris,Île-de-France,France,Canon Machines,Technology,Machines,58.91,1,-0.75
+CA-100437,2022-03-13,David Miller,Home Office,Birmingham,England,United Kingdom,Canon Copiers,Technology,Copiers,113.1,2,31.57
+CA-100438,2022-05-25,Jennifer Garcia,Home Office,Chicago,Illinois,United States,Sauder Bookcases,Furniture,Bookcases,3823.92,8,130.6
+CA-100439,2024-01-13,Patricia Miller,Consumer,Birmingham,England,United Kingdom,Cisco Phones,Technology,Phones,1145.6,8,106.38
+CA-100440,2022-06-11,Patricia Williams,Consumer,Brisbane,Queensland,Australia,Canon Copiers,Technology,Copiers,490.97,1,158.18
+CA-100441,2024-11-29,Joseph Williams,Corporate,Brisbane,Queensland,Australia,Fellowes Appliances,Office Supplies,Appliances,2742.53,7,564.08
+CA-100442,2023-05-04,Jessica Johnson,Corporate,Paris,Île-de-France,France,Cisco Phones,Technology,Phones,260.24,8,8.02
+CA-100443,2022-05-28,Linda Wilson,Home Office,Jacksonville,Florida,United States,Sauder Bookcases,Furniture,Bookcases,2396.88,9,599.92
+CA-100444,2024-08-10,Linda Davis,Home Office,Brisbane,Queensland,Australia,Sauder Bookcases,Furniture,Bookcases,579.88,7,181.63
+CA-100445,2024-02-03,Jennifer Rodriguez,Home Office,New York,New York,United States,Canon Machines,Technology,Machines,3488.08,8,-218.24
+CA-100446,2023-01-01,William Smith,Corporate,Manchester,England,United Kingdom,Logitech Accessories,Technology,Accessories,1118.96,4,99.94
+CA-100447,2024-10-11,Joseph Johnson,Corporate,San Diego,California,United States,Canon Machines,Technology,Machines,1318.96,8,514.84
+CA-100448,2024-07-27,Susan Smith,Corporate,Los Angeles,California,United States,Logitech Accessories,Technology,Accessories,90.72,9,-4.95
+CA-100449,2022-03-26,Michael Wilson,Corporate,Hamburg,Hamburg,Germany,Leland Furnishings,Furniture,Furnishings,3805.36,8,310.79
+CA-100450,2024-10-20,Jessica Anderson,Corporate,Calgary,Alberta,Canada,Leland Furnishings,Furniture,Furnishings,2164.8,6,-93.06
+CA-100451,2022-06-15,Barbara Thomas,Corporate,Toronto,Ontario,Canada,Leland Furnishings,Furniture,Furnishings,1391.85,5,121.01
+CA-100452,2022-10-19,Robert Thomas,Corporate,Chicago,Illinois,United States,Canon Copiers,Technology,Copiers,436.87,7,89.74
+CA-100453,2024-09-10,Joseph Thomas,Consumer,San Antonio,Texas,United States,Hon Chairs,Furniture,Chairs,376.86,6,40.41
+CA-100454,2024-02-14,Joseph Davis,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Leland Furnishings,Furniture,Furnishings,4785.3,10,-156.39
+CA-100455,2022-10-03,Mary Rodriguez,Home Office,Dallas,Texas,United States,Cisco Phones,Technology,Phones,2466.4,10,380.24
+CA-100456,2023-08-21,Robert Johnson,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Cisco Phones,Technology,Phones,3070.2,10,187.04
+CA-100457,2022-07-27,Linda Jones,Home Office,Brisbane,Queensland,Australia,Cisco Phones,Technology,Phones,2913.24,6,368.3
+CA-100458,2024-05-09,Elizabeth Thomas,Home Office,Calgary,Alberta,Canada,Canon Copiers,Technology,Copiers,3885.75,9,994.51
+CA-100459,2022-07-26,Michael Martinez,Consumer,Paris,Île-de-France,France,Canon Copiers,Technology,Copiers,1732.2,5,624.62
+CA-100460,2024-11-02,David Anderson,Consumer,Marseille,Provence-Alpes-Côte d'Azur,France,Xerox Paper,Office Supplies,Paper,1713.12,6,327.9
+CA-100461,2022-08-14,Elizabeth Moore,Home Office,Lyon,Auvergne-Rhône-Alpes,France,Cisco Phones,Technology,Phones,266.14,1,-23.25
+CA-100462,2022-04-07,Michael Jones,Consumer,Austin,Texas,United States,Fellowes Storage,Office Supplies,Storage,1724.3,5,-46.19
+CA-100463,2024-05-22,Mary Garcia,Consumer,Lyon,Auvergne-Rhône-Alpes,France,Canon Machines,Technology,Machines,623.78,2,148.31
+CA-100464,2024-11-30,Elizabeth Anderson,Consumer,Calgary,Alberta,Canada,Leland Furnishings,Furniture,Furnishings,463.98,1,43.51
+CA-100465,2024-12-30,William Brown,Consumer,London,England,United Kingdom,Fellowes Appliances,Office Supplies,Appliances,3333.52,8,1185.88
+CA-100466,2024-11-26,Michael Taylor,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Canon Copiers,Technology,Copiers,616.6,4,-6.96
+CA-100467,2022-09-07,Patricia Miller,Consumer,Chicago,Illinois,United States,Staples Binders,Office Supplies,Binders,1027.39,7,33.0
+CA-100468,2024-07-16,David Davis,Consumer,Munich,Bavaria,Germany,Canon Copiers,Technology,Copiers,88.71,3,32.32
+CA-100469,2023-05-09,Elizabeth Davis,Home Office,Austin,Texas,United States,Fellowes Appliances,Office Supplies,Appliances,1669.14,9,487.42
+CA-100470,2022-05-23,John Taylor,Consumer,Berlin,Berlin,Germany,Logitech Accessories,Technology,Accessories,641.43,3,108.09
+CA-100471,2024-04-04,David Garcia,Consumer,Manchester,England,United Kingdom,Sauder Bookcases,Furniture,Bookcases,585.2,5,161.71
+CA-100472,2024-08-11,James Johnson,Home Office,Brisbane,Queensland,Australia,Leland Furnishings,Furniture,Furnishings,1370.28,6,482.68
+CA-100473,2022-02-08,David Miller,Consumer,Berlin,Berlin,Germany,Xerox Paper,Office Supplies,Paper,950.11,7,248.92
+CA-100474,2024-03-09,Joseph Davis,Home Office,Munich,Bavaria,Germany,Staples Binders,Office Supplies,Binders,2250.8,5,-8.43
+CA-100475,2024-11-30,James Wilson,Consumer,Los Angeles,California,United States,Xerox Paper,Office Supplies,Paper,1353.84,4,388.27
+CA-100476,2022-02-28,Susan Wilson,Consumer,Sydney,New South Wales,Australia,Xerox Paper,Office Supplies,Paper,64.92,3,16.78
+CA-100477,2023-02-06,Jennifer Taylor,Consumer,Los Angeles,California,United States,Bush Tables,Furniture,Tables,400.68,9,124.54
+CA-100478,2022-01-10,Richard Miller,Corporate,Melbourne,Victoria,Australia,Sauder Bookcases,Furniture,Bookcases,200.86,1,-8.2
+CA-100479,2023-07-10,John Taylor,Home Office,Marseille,Provence-Alpes-Côte d'Azur,France,Canon Copiers,Technology,Copiers,323.0,10,104.69
+CA-100480,2023-09-06,Elizabeth Martinez,Corporate,Berlin,Berlin,Germany,Xerox Paper,Office Supplies,Paper,1924.9,5,228.75
+CA-100481,2024-04-27,Jennifer Rodriguez,Corporate,Paris,Île-de-France,France,Hon Chairs,Furniture,Chairs,1127.73,3,336.5
+CA-100482,2024-06-08,Barbara Smith,Corporate,Manchester,England,United Kingdom,Logitech Accessories,Technology,Accessories,713.43,9,-56.44
+CA-100483,2024-03-07,John Jones,Home Office,Munich,Bavaria,Germany,Hon Chairs,Furniture,Chairs,682.5,6,240.8
+CA-100484,2024-05-31,Linda Martinez,Consumer,Montreal,Quebec,Canada,Bush Tables,Furniture,Tables,264.68,4,62.33
+CA-100485,2024-06-20,John Jones,Corporate,Dallas,Texas,United States,Leland Furnishings,Furniture,Furnishings,265.68,2,-0.34
+CA-100486,2022-10-28,Robert Wilson,Corporate,Melbourne,Victoria,Australia,Leland Furnishings,Furniture,Furnishings,236.08,4,49.52
+CA-100487,2024-05-30,David Martinez,Corporate,Leeds,England,United Kingdom,Leland Furnishings,Furniture,Furnishings,1748.95,5,-41.63
+CA-100488,2024-09-22,Jennifer Smith,Corporate,Birmingham,England,United Kingdom,Sauder Bookcases,Furniture,Bookcases,1579.88,4,404.61
+CA-100489,2023-07-12,Robert Wilson,Corporate,Melbourne,Victoria,Australia,Canon Copiers,Technology,Copiers,2640.96,6,347.09
+CA-100490,2022-08-06,Patricia Williams,Home Office,Leeds,England,United Kingdom,Leland Furnishings,Furniture,Furnishings,501.7,10,20.22
+CA-100491,2024-06-22,John Anderson,Corporate,Berlin,Berlin,Germany,Xerox Paper,Office Supplies,Paper,426.3,1,92.0
+CA-100492,2024-04-18,Michael Moore,Home Office,Munich,Bavaria,Germany,Staples Binders,Office Supplies,Binders,1239.3,9,430.03
+CA-100493,2023-12-23,Barbara Miller,Consumer,Brisbane,Queensland,Australia,Hon Chairs,Furniture,Chairs,3692.8,10,168.02
+CA-100494,2024-08-11,Richard Garcia,Consumer,Hamburg,Hamburg,Germany,Logitech Accessories,Technology,Accessories,334.71,1,108.44
+CA-100495,2022-08-16,Robert Davis,Home Office,Paris,Île-de-France,France,Fellowes Storage,Office Supplies,Storage,862.56,3,157.77
+CA-100496,2022-12-30,Barbara Smith,Corporate,Marseille,Provence-Alpes-Côte d'Azur,France,Hon Chairs,Furniture,Chairs,988.48,8,31.81
+CA-100497,2024-10-04,Barbara Miller,Consumer,Austin,Texas,United States,Canon Machines,Technology,Machines,3535.68,8,-283.02
+CA-100498,2023-08-09,William Thomas,Home Office,London,England,United Kingdom,Canon Copiers,Technology,Copiers,1467.65,5,271.63
+CA-100499,2023-09-23,John Rodriguez,Corporate,Lyon,Auvergne-Rhône-Alpes,France,Bush Tables,Furniture,Tables,3406.27,7,39.0
